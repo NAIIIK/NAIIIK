@@ -22,8 +22,7 @@ JUnit 5 • Mockito
 
 ### PostgreSQL vs Redis - Benchmark Utility
 Benchmarking tool comparing read performance between PostgreSQL 
-and Redis. Stack: Java, Hibernate, Lettuce, Docker Compose, JUnit 5.
-→ [View repository](https://github.com/NAIIIK/com.javarush.rodionov.final4)
+and Redis → [View repository](https://github.com/NAIIIK/com.javarush.rodionov.final4)
 
 ## Languages
 - Russian — native

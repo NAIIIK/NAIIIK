@@ -24,7 +24,7 @@ JUnit 5 • Mockito
 Benchmarking tool comparing read performance between PostgreSQL 
 and Redis -> [View repository](https://github.com/NAIIIK/postgres-redis-benchmark)
 
-### Island Simulation — Multithreading Project
+### Island Simulation - Multithreading Project
 A multithreaded island ecosystem simulation -> [View repository](https://github.com/NAIIIK/multithreading-project)
 
 ### Quest Web-game
@@ -35,9 +35,9 @@ A console-based Java application for encrypting and decrypting text files using 
 cipher -> [View repository](https://github.com/NAIIIK/cryptoanalyzer)
 
 ## Languages
-- Russian — native
-- Polish — C1
-- English — B2 (TELC Business English)
+- Russian - native
+- Polish - C1
+- English - B2 (TELC Business English)
 
 ## Contact
 📧 radzivonaumikita@gmail.com

@@ -23,12 +23,7 @@ JUnit 5 • Mockito
 ### PostgreSQL vs Redis - Benchmark Utility
 Benchmarking tool comparing read performance between PostgreSQL 
 and Redis. Stack: Java, Hibernate, Lettuce, Docker Compose, JUnit 5.
-→ [View repository](#)
-
-### Microservice Application - Spring Boot + Kafka
-Microservice architecture with REST API, Apache Kafka, 
-Spring Security, PostgreSQL, Cassandra.
-→ [View repository](#)
+→ [View repository](https://github.com/NAIIIK/com.javarush.rodionov.final4)
 
 ## Languages
 - Russian — native

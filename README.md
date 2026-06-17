@@ -1,7 +1,7 @@
-# Nikita Rodionov — Junior Java Developer
+# Nikita Rodionov - Java Developer
 
 Java developer focused on backend development and microservices.
-Currently looking for opportunities in banking / fintech in Poland.
+Currently looking for opportunities.
 
 ## Tech Stack
 
@@ -22,7 +22,17 @@ JUnit 5 • Mockito
 
 ### PostgreSQL vs Redis - Benchmark Utility
 Benchmarking tool comparing read performance between PostgreSQL 
-and Redis → [View repository](https://github.com/NAIIIK/com.javarush.rodionov.final4)
+and Redis -> [View repository](https://github.com/NAIIIK/postgres-redis-benchmark)
+
+### Island Simulation — Multithreading Project
+A multithreaded island ecosystem simulation -> [View repository](https://github.com/NAIIIK/multithreading-project)
+
+### Quest Web-game
+A text-based quest/adventure web game -> [View repository](https://github.com/NAIIIK/quest-web-game)
+
+### Cryptoanalyzer
+A console-based Java application for encrypting and decrypting text files using the Caesar
+cipher -> [View repository](https://github.com/NAIIIK/cryptoanalyzer)
 
 ## Languages
 - Russian — native

@@ -32,4 +32,5 @@ and Redis. Stack: Java, Hibernate, Lettuce, Docker Compose, JUnit 5.
 
 ## Contact
 📧 radzivonaumikita@gmail.com
+
 💼 linkedin.com/in/mikita-radzivonau

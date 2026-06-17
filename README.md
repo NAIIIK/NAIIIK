@@ -5,17 +5,17 @@ Currently looking for opportunities in banking / fintech in Poland.
 
 ## Tech Stack
 
-Backend
+### Backend
 Java 8+ • Spring Boot • Spring MVC • Spring Security • Spring Data
 Hibernate • JPA • REST API • Apache Kafka • OpenAPI 3.0
 
-Databases
+### Databases
 PostgreSQL • Redis • Cassandra • MS SQL Server
 
-Tools
+### Tools
 Git • Maven • Docker • Docker Compose • IntelliJ IDEA
 
-Testing
+### Testing
 JUnit 5 • Mockito
 
 ## Projects

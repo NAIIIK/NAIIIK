@@ -1,22 +1,21 @@
-# Nikita Rodionov - Java Developer
+# Nikita Rodionov (Mikita Radzivonau) - Java Developer
 
-Java developer focused on backend development and microservices.
-Currently looking for opportunities.
+Java developer focused on backend/software development.
 
 ## Tech Stack
 
-### Backend
-Java 8+ • Spring Boot • Spring MVC • Spring Security • Spring Data
-Hibernate • JPA • REST API • Apache Kafka • OpenAPI 3.0
+### Core & Languages
+SQL • OOP • SOLID • Design Patterns • Kotlin (learning)
 
-### Databases
-PostgreSQL • Redis • Cassandra • MS SQL Server
+### Frameworks & Data
+Spring Boot • MVC • Security • Data JPA • Hibernate • PostgreSQL • MS SQL • Redis • Cassandra
 
-### Tools
-Git • Maven • Docker • Docker Compose • IntelliJ IDEA
+### Architecture & Tools
+Microservices • Apache Kafka • REST API • OpenAPI 3.0/Swagger • Docker • Docker Compose • Maven •
+Gradle • Git • JWT • Hexagonal structure
 
-### Testing
-JUnit 5 • Mockito
+### Testing & CI/CD
+JUnit 5 • Mockito • Testcontainers • Flyway • Liquibase • Bean Validation • GitHub Actions exposure
 
 ## Projects
 

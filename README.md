@@ -31,10 +31,6 @@ and Redis -> [View repository](https://github.com/NAIIIK/postgres-redis-benchmar
 ### Island Simulation - Multithreading Project
 A multithreaded island ecosystem simulation -> [View repository](https://github.com/NAIIIK/multithreading-project)
 
-### Cryptoanalyzer
-A console-based Java application for encrypting and decrypting text files using the Caesar
-cipher -> [View repository](https://github.com/NAIIIK/cryptoanalyzer)
-
 ## Languages
 - Russian - native
 - Polish - C1

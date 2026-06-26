@@ -21,7 +21,7 @@ JUnit 5 • Mockito • Testcontainers • Flyway • Liquibase • Bean Validat
 
 ### A RESTful payment processing service
 A payment processing service that demonstrates production-grade patterns: hexagonal architecture, idempotency,
-optimistic locking, audit trail, and structured logging -> [View repository](https://github.com/NAIIIK/payment-service)
+optimistic locking, audit trail, structured logging and JWT authentication -> [View repository](https://github.com/NAIIIK/payment-service)
 
 ### PostgreSQL vs Redis - Benchmark Utility
 Benchmarking tool comparing read performance between PostgreSQL 

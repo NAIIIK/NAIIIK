@@ -5,7 +5,7 @@ Java developer focused on backend development.
 ## Tech Stack
 
 ### Core & Languages
-Java • 8+ SQL • OOP • SOLID • Design Patterns • Kotlin (learning)
+Java 8+ • SQL • OOP • SOLID • Design Patterns • Kotlin (learning)
 
 ### Frameworks & Data
 Spring Boot • MVC • Security • Data JPA • Hibernate • PostgreSQL • MS SQL • Redis • Cassandra

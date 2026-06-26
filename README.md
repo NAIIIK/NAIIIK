@@ -1,6 +1,6 @@
 # Nikita Rodionov (Mikita Radzivonau) - Java Developer
 
-Java developer focused on backend/software development.
+Java developer focused on backend development.
 
 ## Tech Stack
 

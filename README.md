@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mikita Radzivonau 👋</h1>
+<h1 align="center">Hi, I'm [Mikita Radzivonau](https://naiiik.github.io/) 👋</h1>
 <h3 align="center">Mikita Radzivonau · Java Backend Developer</h3>
 
 <p align="center">

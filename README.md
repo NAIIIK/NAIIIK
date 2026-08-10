@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm <a href="https://naiiik.github.io/"> Mikita Radzivonau </a>👋</h1>
-<h3 align="center">Mikita Radzivonau · Java Backend Developer</h3>
+<h1 align="center">Hi, I'm Mikita👋</h1>
+<h3 align="center"> <a href="https://naiiik.github.io/">Mikita Radzivonau</a> · Java Backend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Microservices;Kafka+%7C+PostgreSQL+%7C+Redis;Building+production-grade+backend+systems" alt="Typing SVG" />

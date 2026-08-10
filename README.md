@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-Java backend developer focused on building reliable, well-tested services. I like digging into architecture decisions — hexagonal structure, idempotency, distributed systems patterns — and I care about writing code that's production-grade, not just "works on my machine."
+Java backend developer focused on building reliable, well-tested services.
 
 ---
 

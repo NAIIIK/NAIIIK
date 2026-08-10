@@ -18,8 +18,7 @@ Java backend developer focused on building reliable, well-tested services.
 **Core & Languages**
 
 ![Java](https://img.shields.io/badge/Java_8+-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin_(learning)-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 ![OOP](https://img.shields.io/badge/OOP-blue?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID-blue?style=flat-square)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-blue?style=flat-square)
@@ -32,9 +31,7 @@ Java backend developer focused on building reliable, well-tested services.
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
 
 **Architecture & Tools**
 
@@ -48,7 +45,6 @@ Java backend developer focused on building reliable, well-tested services.
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Hexagonal](https://img.shields.io/badge/Hexagonal_Structure-blue?style=flat-square)
 
 **Testing & CI/CD**
 
@@ -58,31 +54,19 @@ Java backend developer focused on building reliable, well-tested services.
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=flat-square&logo=liquibase&logoColor=white)
 ![Bean Validation](https://img.shields.io/badge/Bean_Validation-blue?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
 ### 📌 Featured Projects
 
-<table>
-  <tr>
-    <td width="33%">
-      <h4>💳 RESTful Payment Processing Service</h4>
-      <p>Production-grade patterns: hexagonal architecture, idempotency, optimistic locking, audit trail, structured logging, JWT authentication.</p>
-      <a href="https://github.com/NAIIIK/payment-service">🔗 View repository</a>
-    </td>
-    <td width="33%">
-      <h4>⚡ PostgreSQL vs Redis — Benchmark</h4>
-      <p>Benchmarking tool comparing read performance between PostgreSQL and Redis.</p>
-      <a href="https://github.com/NAIIIK/postgres-redis-benchmark">🔗 View repository</a>
-    </td>
-    <td width="33%">
-      <h4>🏝️ Island Simulation</h4>
-      <p>A multithreaded island ecosystem simulation exploring concurrency patterns in Java.</p>
-      <a href="https://github.com/NAIIIK/multithreading-project">🔗 View repository</a>
-    </td>
-  </tr>
-</table>
+**💳 [RESTful Payment Processing Service](https://github.com/NAIIIK/payment-service)**
+Production-grade patterns: hexagonal architecture, idempotency, optimistic locking, audit trail, structured logging, JWT authentication.
+ 
+**⚡ [PostgreSQL vs Redis — Benchmark Utility](https://github.com/NAIIIK/postgres-redis-benchmark)**
+Benchmarking tool comparing read performance between PostgreSQL and Redis.
+ 
+**🏝️ [Island Simulation — Multithreading Project](https://github.com/NAIIIK/multithreading-project)**
+A multithreaded island ecosystem simulation exploring concurrency patterns in Java.
 
 ---
 

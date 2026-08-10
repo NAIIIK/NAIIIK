@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nikita Rodionov 👋</h1>
+<h1 align="center">Hi, I'm Mikita Radzivonau 👋</h1>
 <h3 align="center">Mikita Radzivonau · Java Backend Developer</h3>
 
 <p align="center">
@@ -60,13 +60,13 @@ Java backend developer focused on building reliable, well-tested services.
 ### 📌 Featured Projects
 
 **💳 [RESTful Payment Processing Service](https://github.com/NAIIIK/payment-service)**
-Production-grade patterns: hexagonal architecture, idempotency, optimistic locking, audit trail, structured logging, JWT authentication.
+: production-grade patterns: hexagonal architecture, idempotency, optimistic locking, audit trail, structured logging, JWT authentication.
  
 **⚡ [PostgreSQL vs Redis — Benchmark Utility](https://github.com/NAIIIK/postgres-redis-benchmark)**
-Benchmarking tool comparing read performance between PostgreSQL and Redis.
+: benchmarking tool comparing read performance between PostgreSQL and Redis.
  
 **🏝️ [Island Simulation — Multithreading Project](https://github.com/NAIIIK/multithreading-project)**
-A multithreaded island ecosystem simulation exploring concurrency patterns in Java.
+: a multithreaded island ecosystem simulation exploring concurrency patterns in Java.
 
 ---
 

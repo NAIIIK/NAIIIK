@@ -72,11 +72,9 @@ Java backend developer focused on building reliable, well-tested services.
 
 ### 🌍 Languages
 
-| Language | Level |
-| :---: |---|
-| <img src="https://flagcdn.com/24x18/ru.png" width="20" alt="RU"> **Russian** | Native |
-| <img src="https://flagcdn.com/24x18/pl.png" width="20" alt="PL"> **Polish** | C1 |
-| <img src="https://flagcdn.com/24x18/gb.png" width="20" alt="GB"> **English** | B2 (TELC Business English) |
+![Russian](https://img.shields.io/badge/Russian-Native-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNDgwIj48ZyBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZS13aWR0aD0iMXB0Ij48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMCAwaDY0MHY0ODBIMHoiLz48cGF0aCBmaWxsPSIjMDAzOWE2IiBkPSJNMCAxNjBoNjQwdjMyMEgweiIvPjxwYXRoIGZpbGw9IiNkNTI1NDYiIGQ9Ik0wIDMyMGg2NDB2MTYwSDB6Ii8+PC9nPjwvc3ZnPg==)
+![Polish](https://img.shields.io/badge/Polish-C1-dc143c?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNDgwIj48cGF0aCBmaWxsPSIjZGMxNDNjIiBkPSJNMCAwaDY0MHY0ODBIMHoiLz48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMCAwaDY0MHYyNDBIMHoiLz48L3N2Zz4=)
+![English](https://img.shields.io/badge/English-B2_(TELC)-012169?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNDgwIj48cGF0aCBmaWxsPSIjMDEyMTY5IiBkPSJNMCAwaTY0MHY0ODBIMHoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMCAwbDY0MCA0ODBNDCA0ODBMNjQwIDBNMzIwIDB2NDgwTTAgMjQwaDY0MCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjYwIi8+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9IjQwIiBkPSJNMCAwaDY0MHY0ODBIMHoiLz48L3N2Zz4=)
 
 ---
 

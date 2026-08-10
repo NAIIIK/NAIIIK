@@ -73,10 +73,10 @@ Java backend developer focused on building reliable, well-tested services.
 ### 🌍 Languages
 
 | Language | Level |
-|---|---|
-| 🇷🇺 Russian | Native |
-| 🇵🇱 Polish | C1 |
-| 🇬🇧 English | B2 (TELC Business English) |
+| :---: |---|
+| <img src="https://flagcdn.com/24x18/ru.png" width="20" alt="RU"> **Russian** | Native |
+| <img src="https://flagcdn.com/24x18/pl.png" width="20" alt="PL"> **Polish** | C1 |
+| <img src="https://flagcdn.com/24x18/gb.png" width="20" alt="GB"> **English** | B2 (TELC Business English) |
 
 ---
 

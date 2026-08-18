@@ -60,7 +60,7 @@ Java backend developer focused on building reliable, well-tested services.
 ### 📌 Featured Projects
 
 **💳 [RESTful Payment Processing Service](https://github.com/NAIIIK/payment-service)**
-: production-grade patterns: hexagonal architecture, idempotency, optimistic locking, audit trail, structured logging, JWT authentication.
+: production-grade patterns: hexagonal architecture, idempotency, optimistic locking, audit trail, structured logging, JWT authentication and Stripe integration.
  
 **⚡ [PostgreSQL vs Redis — Benchmark Utility](https://github.com/NAIIIK/postgres-redis-benchmark)**
 : benchmarking tool comparing read performance between PostgreSQL and Redis.

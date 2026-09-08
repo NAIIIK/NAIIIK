@@ -62,11 +62,8 @@ Java backend developer focused on building reliable, well-tested services.
 **💳 [RESTful Payment Processing Service](https://github.com/NAIIIK/payment-service)**
 : production-grade patterns: hexagonal architecture, idempotency, optimistic locking, audit trail, structured logging, JWT authentication and Stripe integration.
  
-**⚡ [PostgreSQL vs Redis - Benchmark Utility](https://github.com/NAIIIK/postgres-redis-benchmark)**
-: benchmarking tool comparing read performance between PostgreSQL and Redis.
- 
-**🏝️ [Island Simulation - Multithreading Project](https://github.com/NAIIIK/multithreading-project)**
-: a multithreaded island ecosystem simulation exploring concurrency patterns in Java.
+**⚡ [Passport Inspector Platform](https://github.com/NAIIIK/passport-inspector-platform))**
+: A microservices-based system for asynchronous passport data verification, integrating with a mocked external SMEV service.
 
 ---
 

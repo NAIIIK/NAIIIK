@@ -62,7 +62,7 @@ Java backend developer focused on building reliable, well-tested services.
 **💳 [RESTful Payment Processing Service](https://github.com/NAIIIK/payment-service)**
 : production-grade patterns: hexagonal architecture, idempotency, optimistic locking, audit trail, structured logging, JWT authentication and Stripe integration.
  
-**⚡ [Passport Inspector Platform](https://github.com/NAIIIK/passport-inspector-platform))**
+**🪪 [Passport Inspector Platform](https://github.com/NAIIIK/passport-inspector-platform)**
 : A microservices-based system for asynchronous passport data verification, integrating with a mocked external SMEV service.
 
 ---

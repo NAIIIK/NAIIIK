@@ -65,7 +65,7 @@ Java backend developer focused on building reliable, well-tested services.
 **🪪 [Passport Inspector Platform](https://github.com/NAIIIK/passport-inspector-platform)**
 : a microservices-based system for asynchronous passport data verification, integrating with a mocked external SMEV service.
 
-**📝 [Task Manager](https://github.com/NAIIIK/com.javarush.rodionov.taskManager)**
+**📝 [Task Manager](https://github.com/NAIIIK/task-manager)**
 : a Jira/Trello-style task management REST API built with Spring Boot.
 
 ---
